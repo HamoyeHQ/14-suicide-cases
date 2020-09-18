@@ -1,4 +1,5 @@
 # WHO Suicide Statistics
+*Analyse the number of suicide cases based on country, year, demography and age group*
 
 **Content**
 
